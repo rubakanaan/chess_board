@@ -15,4 +15,4 @@
 * queens with any other coordinates should NOT be “under attack”
 
 ### PR
-*
+* https://github.com/rubakanaan/chess_board/pull/1
